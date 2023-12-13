@@ -1,3 +1,5 @@
+# Fullstack Discord Clone: Next.js 14, React, Socket.io, Prisma, Tailwind, MySQL 
+
 Comprehensive Features:
 
 1. **Real-Time Messaging with Socket.io:**
